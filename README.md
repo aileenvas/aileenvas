@@ -14,7 +14,7 @@
   
 💻 unos cuántos años de experiencia en el area QA  de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
-📝 roles en el ámbito: Analista QA... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: Analista QA...  Pruebas de Usabilidad... Coordinadora de Pruebas... Diseño y Ejecuccion de Pruebas... Pruebas Automatizadas... y en un futuro quién sabe ☺️
 
 📫 Contacto: **avasquez.inf@gmail.com**
 <!--Intro end-->

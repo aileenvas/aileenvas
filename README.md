@@ -3,7 +3,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/aileenvasquezg" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aileenvasquezg"/></a>
-<a href = "mailto:www.linkedin.com/in/aileenvasquezg" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "www.linkedin.com/in/aileenvasquezg" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -12,7 +12,7 @@
 <p align="left">
 🎓 Estudiante de INGENIERA EN INFORMÁTICA
   
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 unos cuántos años de experiencia en el area QA  de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
 📝 roles en el ámbito: Analista QA... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
@@ -21,7 +21,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas👩🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">

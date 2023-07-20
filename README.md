@@ -10,7 +10,6 @@
 
 <p align="left">
 🎓 Estudiante de Ingeniería Informática especializándome en Quality Assurance. Apasionada por garantizar la calidad en el desarrollo de software y comprometida con la mejora continua. Con sólidos conocimientos técnicos y habilidades analíticas, me destaco por mi atención a los detalles y mi capacidad para trabajar en equipo. Mi enfoque orientado a resultados y mi pasión me convierten en una candidata ideal para asegurar la calidad en una organización y contribuir al éxito de los proyectos.
-   </p>
 <br>
 📝 roles en el ámbito: Analista QA...  Pruebas de Usabilidad... Coordinadora de Pruebas... Diseño y Ejecuccion de Pruebas... Pruebas Automatizadas... y en un futuro quién sabe ☺️
 

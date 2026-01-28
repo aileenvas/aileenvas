@@ -11,7 +11,7 @@
 <p align="left">
 🎓 Apasionada por garantizar la calidad en el desarrollo de software y comprometida con la mejora continua. Con sólidos conocimientos técnicos y habilidades analíticas, me destaco por mi atención a los detalles y mi capacidad para trabajar en equipo.
 <p>
-📝 roles en el ámbito: Analista QA...  Pruebas de Usabilidad... Coordinadora de Pruebas... Diseño y Ejecuccion de Pruebas... Pruebas Automatizadas... y en un futuro quién sabe ☺️
+
 
 📫 Contacto: **avasquez.inf@gmail.com**
 <!--Intro end-->

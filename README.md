@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,  soy Aileen Vasquez ✨ </h1> 
+<h1 align="center">Hola 👋,  soy Aileen Vasquez  </h1> 
 
 <p align="left">
 
@@ -9,8 +9,6 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Apasionada por garantizar la calidad en el desarrollo de software y comprometida con la mejora continua. me destaco por mi atención a los detalles y mi capacidad para trabajar en equipo.
-<p>
 
 
 📫 Contacto: **avasquez.inf@gmail.com**
